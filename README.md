@@ -4,7 +4,7 @@ https://tpfinal-python2024-codoacodo.netlify.app/
 
 > Note: Al tratarse de un alojamiento gratuito, el sitio pythonanywhere, necesita reactivar la cuenta cada 90 días para mantener la funcionalidad del Back - END.
 > Si se experimenta falta de conexión a la Base de Datos, es necesario refrescar nuestra actividad en un botón dentro del panel de control. Esta herramienta no está disponible para el usuario final que navega por la página del ejemplo sobre Netifly.
-> ültimo acceso 04/07/2024.
+> Último acceso 04/07/2024.
 
 DESCRIPCIÓN GENERAL DEL PROYECTO
 ---------------------------------
