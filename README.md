@@ -23,3 +23,13 @@ Persistencia de datos:
 • Los datos de los productos se almacenan en una base de datos SQL.
 • Se utiliza una conexión a la base de datos para realizar operaciones CRUD en los productos.
 • El código proporcionado incluye las clases Catálogo, que representa la estructura y funcionalidad relacionada con el catálogo de productos. Además, se define una serie de rutas en Flask para manejar las solicitudes HTTP relacionadas con la gestión de productos.
+
+![Menú](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/menu.png)
+
+![Listado](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/listado.png)
+
+![Alta](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/alta.png)
+
+![Modificar](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/modificar.png)
+
+![Eliminar](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/eliminar.png)
