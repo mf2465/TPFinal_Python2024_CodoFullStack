@@ -10,7 +10,7 @@ DESCRIPCIÓN GENERAL DEL PROYECTO
 ---------------------------------
 
 El proyecto se trata de un sistema que permite administrar una base de datos de productos, implementado una API en Python utilizando el framework Flask. Las operaciones que se realizarán en este proyecto es dar de alta, modificar, eliminar y listar los productos, operaciones que podrán hacer los usuarios a través de una página Web.
-Como ejemplo trabajaremos con una empresa de venta de artículos de computación que ofrece sus productos a través de una Web.
+Como ejemplo trabajaremos con una empresa de distribución de frutas, verduras y otros artículos afines al rubro.
 
 Aquí hay un resumen de las principales características y funcionalidades del proyecto:
 
