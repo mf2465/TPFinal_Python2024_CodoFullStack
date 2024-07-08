@@ -35,3 +35,5 @@ Persistencia de datos:
 ![Modificar](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/modificar.png)
 
 ![Eliminar](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/eliminar.png)
+
+![Pythonanywhere](https://github.com/mf2465/TPFinal_Python2024_CodoFullStack/blob/main/static/imagenes/pythonanywhere.png)
